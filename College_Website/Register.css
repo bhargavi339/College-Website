@@ -1,0 +1,84 @@
+.icon-style
+{
+    height: 50px;
+    width: 50px;
+}
+nav {
+    width: 100%;
+    float: left;
+    background: #ff5722;
+    padding:15px 0px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    border-right: 1px solid #ffc3c3;
+    padding:2px 20px;
+}
+.header1
+{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.container1 
+{
+    height: 676px;
+    width: 465px;
+    border-radius: 5px;
+    margin-left: 510px;
+    padding: 45px;
+    border: 2px solid #ccc;
+    background-color: #c3cbc7;
+}
+form 
+{
+    width: 350px;
+}
+label 
+{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="password"],
+select {
+    width: 180px;
+    padding: 8px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; 
+}
+input[type="email"],
+select {
+    width: 360px;
+    padding: 8px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; 
+}
+.username-style
+{
+    margin-right: 50px;
+}
+.email-style
+{
+    margin-right: 50px;
+    
+}
+.submit
+{
+    width: 100%;
+    padding: 10px;
+    background-color: #fb9416;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}

@@ -1,0 +1,84 @@
+.icon-style
+{
+    height: 50px;
+    width: 50px;
+}
+nav {
+    width: 100%;
+    float: left;
+    background: #ff5722;
+    padding:15px 0px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    border-right: 1px solid #ffc3c3;
+    padding:2px 20px;
+}
+.header1
+{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.container1 
+{
+    height: 420px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 550px;
+    padding: 45px;
+    border: 2px solid #ccc;
+    background-color: #c8c0c8;
+}
+form 
+{
+    width: 300px;
+}
+label 
+{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="password"],
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Ensure padding and border are included in element's total width and height */
+}
+input[type="submit"] 
+{
+    width: 100%;
+    padding: 10px;
+    background-color: #4c63af;
+    color: white;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.form-control {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+#checkbox1
+{
+    margin-top: 20px;
+}
+.submit
+{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(14, 244, 14);
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
